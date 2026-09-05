@@ -6,8 +6,10 @@
 [![Forum](https://img.shields.io/badge/forum-online-blue.svg?logo=discourse)](https://whaticket.online/)
 
 # WhaTicket!
+Plataforma de Multi Atendimento no Whatsapp com botões no menu e Multi Atendimento + CRM e funil Integrado
 
-**NOTE**: The new version of whatsapp-web.js required Node 14. Upgrade your installations to keep using it.
+> [!Note]
+> **NOTE**: The new version of whatsapp-web.js required Node 14. Upgrade your installations to keep using it.
 
 A _very simple_ Ticket System based on WhatsApp messages.
 
